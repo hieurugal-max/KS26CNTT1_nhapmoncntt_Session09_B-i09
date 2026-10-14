@@ -1,0 +1,39 @@
+1. Giới thiệu CLB
+CLB Lập trình PTIT là nơi dành cho sinh viên yêu thích lập trình và công nghệ.
+Điểm nổi bật: Học hỏi kiến thức, thực hành dự án và phát triển kỹ năng lập trình.
+2. Danh sách các ban
+- Ban Kỹ thuật
+  - Trưởng ban: Nguyễn Văn An
+  - Liên hệ: an@ptit.edu.vn
+- Ban Truyền thông
+  - Trưởng ban: Trần Minh Anh
+  - Liên hệ: anh@ptit.edu.vn
+- Ban Sự kiện
+  - Trưởng ban: Lê Hoàng Nam
+  - Liên hệ: nam@ptit.edu.vn
+
+3. Hướng dẫn gia nhập
+1. Đăng ký tham gia CLB.
+2. Cài đặt Git.
+3. Tạo tài khoản GitHub.
+4. Sao chép mã nguồn:
+git clone https://github.com/ptit-club/wiki.git
+cd wiki
+
+
+5. Cập nhật và đẩy thay đổi lên GitHub:
+git add .
+git commit -m "Cap nhat tai lieu"
+git push
+
+
+4. Checklist thành viên mới
+- Đăng ký tham gia CLB.
+- Tham gia nhóm chat CLB.
+- Cài đặt Git và VS Code.
+- Tạo tài khoản GitHub.
+- Đọc nội quy CLB.
+- Hoàn thành bài thực hành đầu tiên.
+5. Lưu ý quan trọng
+Thời hạn: Hoàn thành nhiệm vụ trong tuần đầu tiên kể từ ngày gia nhập CLB.
+Quy tắc ứng xử: Tôn trọng các thành viên, trao đổi lịch sự và không tự ý chỉnh sửa hoặc xóa tài liệu của người khác.
